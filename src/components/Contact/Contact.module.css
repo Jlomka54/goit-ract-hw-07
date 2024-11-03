@@ -1,0 +1,13 @@
+.contactItem {
+  padding: 20px;
+  border: 2px black solid;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  width: 300px;
+}
+
+.box {
+  width: 160px;
+  margin-right: 20px;
+}
